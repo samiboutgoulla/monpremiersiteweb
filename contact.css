@@ -1,0 +1,41 @@
+@import url(//db.onlinewebfonts.com/c/482de819aa9631d27141f3d998cace18?family=Ethnocentric);
+nav a
+
+{
+    text-decoration: none;
+    margin-left: 150px;
+    color: white;
+    font-size: 20px;
+
+
+
+    
+}
+h1 a {
+    color: black;
+     text-decoration:none ;
+  margin-left: 25px;
+  font-size: 45px;
+ 
+     
+ }
+ html {
+     background: #333;
+ }
+ p {
+     color: white;
+     font-size: 20px;
+     
+ }
+ h1 {
+     color: white;
+     font-family:'Ethnocentric',sans-serif;
+ }
+ h1 a span {
+     color: rgb(14, 158, 14);
+     font-family:'Ethnocentric',sans-serif;
+ }
+ h2 {
+     color: white;
+     font-size: 35px;
+ }
