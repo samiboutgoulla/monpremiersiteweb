@@ -27,8 +27,8 @@ header{
   
     margin-bottom: 20px;
     border-radius: 20px;
-    padding-top: 15px;
-    padding-bottom: 20px;
+    
+   
     font-family: 'Roboto Condensed', sans-serif;
 }
 html{
@@ -90,15 +90,21 @@ footer h1 {
    
     font-size: 25px;
     font-family: 'Roboto Condensed', sans-serif;
+    color: white;
 }
 footer ins {
     color: rgb(10, 149, 103);
     cursor: pointer;
 }
 footer h2 {
-    font-size: 25px;
-  
+    color: white;
+    margin-left: 600px;
+    margin-bottom: 200px;
+
+
 }
+
+
 
 footer p abbr {
     text-decoration: none;

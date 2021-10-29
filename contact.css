@@ -10,7 +10,7 @@ nav a
      
  }
  h1 a {
-    color:  rgb(14, 158, 14);
+    color:  rgb(75, 75, 75);
      text-decoration:none ;
      margin-left: 25px;
      font-family:'Ethnocentric',sans-serif;
@@ -19,15 +19,15 @@ nav a
      margin-top: 20px;
      
  }
-header{
+ header{
     background: rgb(22, 22, 34);
     margin-top:25px;
     margin-left: 5px;
     margin-right: 5px;
   
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     border-radius: 20px;
-    padding-top: 15px;
+    padding-top: 120px;
     padding-bottom: 20px;
     font-family: 'Roboto Condensed', sans-serif;
 }
@@ -54,3 +54,65 @@ p {
 
 
 }
+  h1 span {
+      color: rgb(14, 158, 14);
+      font-family:'Ethnocentric',sans-serif;
+      font-size: 50px;
+      
+
+
+  }
+  footer {
+    min-height: 200px;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    background: black;
+    color: white;
+  text-align: center;
+  border-radius: 20px;
+}
+strong {
+    font-size: 20px;
+}
+footer i span {
+    color: rgb(14, 158, 14);
+    font-family:'Ethnocentric',sans-serif;
+    cursor: pointer;
+
+
+}
+footer i {
+    color: rgb(75, 75, 75);
+    font-family: 'Ethnocentric',sans-serif;
+    cursor: pointer;
+}
+footer p {
+    margin-left: 100px; 
+  
+    font-family: 'Roboto Condensed', sans-serif;
+}
+footer h1 {
+    
+    margin-right: 775px;
+   
+    font-size: 25px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+footer ins {
+    color: rgb(10, 149, 103);
+    cursor: pointer;
+}
+footer h2 {
+    font-size: 25px;
+  
+}
+
+footer p abbr {
+    text-decoration: none;
+}
+footer p1 {
+    font-size: 19px;
+
+}
+
