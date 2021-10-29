@@ -1,41 +1,56 @@
-@import url(//db.onlinewebfonts.com/c/482de819aa9631d27141f3d998cace18?family=Ethnocentric);
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 nav a
 
 {
-    text-decoration: none;
-    margin-left: 150px;
-    color: white;
-    font-size: 20px;
-
-
-
-    
-}
-h1 a {
-    color: black;
-     text-decoration:none ;
-  margin-left: 25px;
-  font-size: 45px;
- 
-     
- }
- html {
-     background: #333;
- }
- p {
+     text-decoration: none;
+     margin-left: 150px;
      color: white;
+     font-family: 'Roboto Condensed', sans-serif;
      font-size: 20px;
      
  }
- h1 {
-     color: white;
+ h1 a {
+    color:  rgb(14, 158, 14);
+     text-decoration:none ;
+     margin-left: 25px;
      font-family:'Ethnocentric',sans-serif;
+     font-size: 50px;
+     margin-left: 20px;
+     margin-top: 20px;
+     
  }
- h1 a span {
-     color: rgb(14, 158, 14);
-     font-family:'Ethnocentric',sans-serif;
- }
- h2 {
-     color: white;
-     font-size: 35px;
- }
+header{
+    background: rgb(22, 22, 34);
+    margin-top:25px;
+    margin-left: 5px;
+    margin-right: 5px;
+  
+    margin-bottom: 20px;
+    border-radius: 20px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+html{
+    background: #333;
+}
+header h1 span {
+    color: rgb(75, 75, 75);
+    font-family:'Ethnocentric',sans-serif;
+}
+
+h2 {
+    color: white;
+   text-align: left;
+   font-family: 'Roboto Condensed', sans-serif;
+   
+    
+}
+p {
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+
+
+}
